@@ -1,0 +1,15 @@
+.myfond{
+    font-size:100px;
+}
+
+#mycard{
+background-color: rgb(245, 83, 14);
+background-position:center;
+background-size: 100%;
+width: 100%;
+max-height:max-content;
+/* height: 950px; */
+display: flex;
+}
+
+
